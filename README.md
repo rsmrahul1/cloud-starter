@@ -16,13 +16,17 @@ You can use this as the starting point of the learning of cloud services impleme
 ## Explanation of terms used in BlockChain
   ### 1. Azure 
 
-      Azure is a public cloud computing platform—with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) that can be used for services such as analytics, virtual computing, storage, networking, and much more.
+      Azure is a public cloud computing platform—with solutions including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), 
+      and Software as a Service (SaaS) that can be used for services such as analytics, 
+      virtual computing, storage, networking, and much more.
 
   ### 2. Cloud  
-      Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet to offer faster innovation, flexible resources, and economies of scale.
+      Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, 
+      and intelligence—over the Internet to offer faster innovation, flexible resources.
 
   ### 3. Azure blob storage
-      Azure Blob Storage helps you create data lakes for your analytics needs, and provides storage to build powerful cloud-native and mobile apps.
+      Azure Blob Storage helps you create data lakes for your analytics needs, 
+      and provides storage to build powerful cloud-native and mobile apps.
 
   ### 4. Azure SDK
       Programmatically manage and interact with Azure services.
