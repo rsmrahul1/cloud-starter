@@ -41,9 +41,5 @@ You can use this as the starting point of the learning of cloud services impleme
       .env files provide a popular solution for defining environment variables, particularly in Node.js. 
 
   ### 7. Resource Group
-      Nonce, short for “number used once”, is a random number that can only be used one time. 
-      Nonces are generated for a specific use, most often to modify the result of a function in a cryptographic communication. 
-      Discovering the next block is done by finding the right nonce, 
-      that when combined with the previous block hash, provides a lower hash value than the target.  
-      This specific nonce that satisfies the mining requirement of the next block is called the “Golden Nonce”.
+      A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group. You decide how you want to allocate resources to resource groups based on what makes the most sense for your organization. Generally, add resources that share the same lifecycle to the same resource group so you can easily deploy, update, and delete them as a group.
  
